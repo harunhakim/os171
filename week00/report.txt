@@ -1,0 +1,1 @@
+Last week, we were assigned to make both google and github account. After that, we create a repository on our github account. After being confirmed by teaching assistant, we could proceed to log in to badak server.
