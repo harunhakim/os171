@@ -2,10 +2,10 @@ w03-170228-13-LR-About: BIOS, UEFI, and GRUB From: Lecturer
 w03-170228-13-LR-About: BIOS, UEFI, and GRUB From: Lecturer
 w03-170228-14-PS-Quiz in class
 w03-170228-14-PS-Quiz in class
-w03-170302-13-LR-About: Booting, From: Lecturer
-w03-170302-13-LR-About: Booting, From: Lecturer
-w03-170302-14-LR-About: Partitioning, From: Lecturer
-w03-170302-14-LR-About: Partitioning, From: Lecturer
+w03-170302-13-LR-About: Boot, From: Lecturer
+w03-170302-13-LR-About: Boot, From: Lecturer
+w03-170302-14-LR-About: UpStart, From: Lecturer
+w03-170302-14-LR-About: UpStart, From: Lecturer
 w03-170302-21-PS-Doing lab session
 w03-170302-21-PS-Doing lab session
 w03-170302-22-PS-Doing lab session
