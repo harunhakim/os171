@@ -1,0 +1,14 @@
+w04-170307-13-LR-About: Adressing and Pointer From: Lecturer
+w04-170307-13-LR-About: Adressing and Pointer From: Lecturer
+w04-170307-14-LR-About: Adressing and Pointer From: Lecturer
+w04-170307-14-LR-About: Adressing and Pointer From: Lecturer
+w04-170309-13-LR-About: I/O Programming, From: Lecturer
+w04-170309-13-LR-About: I/O Programming, From: Lecturer
+w04-170309-14-LR-About: I/O Programming, From: Lecturer
+w04-170309-14-LR-About: I/O Programming, From: Lecturer
+w04-170309-21-PS-Doing lab session
+w04-170309-21-PS-Doing lab session
+w04-170309-22-PS-Doing lab session
+w04-170310-21-PS-Doing lab session
+w04-170310-21-PS-Doing lab session
+w04-170310-22-PS-Doing lab session
