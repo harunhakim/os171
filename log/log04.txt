@@ -1,7 +1,7 @@
-w04-170307-13-LR-About: Adressing and Pointer From: Lecturer
-w04-170307-13-LR-About: Adressing and Pointer From: Lecturer
-w04-170307-14-LR-About: Adressing and Pointer From: Lecturer
-w04-170307-14-LR-About: Adressing and Pointer From: Lecturer
+w04-170307-13-LR-About: Addressing and Pointer From: Lecturer
+w04-170307-13-LR-About: Addressing and Pointer From: Lecturer
+w04-170307-14-LR-About: Addressing and Pointer From: Lecturer
+w04-170307-14-LR-About: Addressing and Pointer From: Lecturer
 w04-170309-13-LR-About: I/O Programming, From: Lecturer
 w04-170309-13-LR-About: I/O Programming, From: Lecturer
 w04-170309-14-LR-About: I/O Programming, From: Lecturer
